@@ -60,5 +60,6 @@ h2 {
 p {
   margin-bottom: 1.2rem;
   font-size: 1.3rem;
+  font-weight: 400;
   color: hsl(220, 15%, 55%);
 }
